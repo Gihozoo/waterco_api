@@ -1,3 +1,3 @@
-# bookclub_api
+# Waterco api
 
-This is a book club api project where members borrow books
+This is a water company api project 
